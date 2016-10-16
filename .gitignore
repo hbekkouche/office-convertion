@@ -1,0 +1,9 @@
+/target/
+.classpath
+.project
+.external*
+.idea
+.DS_Store
+.settings
+.externalToolBuilders
+*.iml
